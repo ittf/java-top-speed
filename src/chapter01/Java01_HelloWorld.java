@@ -9,6 +9,7 @@ public class Java01_HelloWorld  {
         多行注释
          */
         System.out.println("Hello World");
+        System.out.println("hello git test");
 
     }
 }
